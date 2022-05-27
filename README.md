@@ -7,4 +7,4 @@ The notebook covers the following tasks:
 - Visualize and explore datasets
 - Use Scikit-Learn library to find the optimal number of clusters using elbow method
 - Apply k-means using Scikit-Learn to perform customer segmentation
-- Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization.
+
